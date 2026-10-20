@@ -1,0 +1,9 @@
+# Public showcase: only these reviewed files may be added.
+*
+!/.gitignore
+!/README.md
+!/assets/
+/assets/*
+!/assets/menu.jpg
+!/assets/rewards.jpg
+!/assets/website.jpg
